@@ -1,0 +1,11 @@
+D:\Collection in c#\Collection\Collection\bin\Debug\Collection.exe.config
+D:\Collection in c#\Collection\Collection\bin\Debug\Collection.exe
+D:\Collection in c#\Collection\Collection\bin\Debug\Collection.pdb
+D:\Collection in c#\Collection\Collection\obj\Debug\Collection.exe
+D:\Collection in c#\Collection\Collection\obj\Debug\Collection.pdb
+D:\Collection in c#\CollectionList\Collection\bin\Debug\Collection.exe.config
+D:\Collection in c#\CollectionList\Collection\obj\Debug\Collection.exe
+D:\Collection in c#\CollectionList\Collection\obj\Debug\Collection.pdb
+D:\Collection in c#\CollectionList\Collection\bin\Debug\Collection.exe
+D:\Collection in c#\CollectionList\Collection\bin\Debug\Collection.pdb
+D:\Collection in c#\CollectionList\Collection\obj\Debug\CollectionList.csprojResolveAssemblyReference.cache
